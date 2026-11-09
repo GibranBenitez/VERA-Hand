@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+outputs/
+# Large files distributed through the Google Drive folder (see README)
+gt_imgs/
+predictions/
