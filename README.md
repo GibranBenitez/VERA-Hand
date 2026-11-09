@@ -287,7 +287,7 @@ the IPN Hand dataset and inherit its license: they are licensed under a
 If you find useful the VERA-Hand benchmark for your research, please cite the paper:
 
 ```bibtex
-@article{benitezgarcia2026verahand,
+@article{bega2026verahand,
   title         = {{VERA-Hand}: A Verified Multidimensional Benchmark for 2D Hand Pose Estimation in Third-Person Dynamic Gesture Videos},
   author        = {Benitez-Garcia, Gibran and Takahashi, Hiroki},
   journal       = {arXiv preprint arXiv:2610.32517},
