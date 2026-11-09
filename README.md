@@ -1,4 +1,4 @@
-# # VERA-Hand: <ins>V</ins>erified <ins>E</ins>valuation of <ins>R</ins>eliability <ins>A</ins>cross <ins>Hand</ins> Pose Estimators
+# VERA-Hand: <ins>V</ins>erified <ins>E</ins>valuation of <ins>R</ins>eliability <ins>A</ins>cross <ins>Hand</ins> Pose Estimators
 
 [__VERA-Hand: A Verified Multidimensional Benchmark for 2D Hand Pose Estimation in Third-Person Dynamic Gesture Videos__](https://arxiv.org/abs/2610.32517)
 <br>
